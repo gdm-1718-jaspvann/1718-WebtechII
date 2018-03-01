@@ -1,0 +1,35 @@
+body {
+    background: black;
+    color: white;
+    font-family: monospace;
+    font-size: 24px;
+}
+
+input {
+    border-radius: 5px;
+    padding: 15px;
+    width: 300px;
+    background: yellow;
+    color: black;
+    border: none;
+    font-size: 20px;
+}
+
+button {
+    border-radius: 5px;
+    background: red;
+    color: white;
+    font-size: 20px;
+    padding: 15px 25px;
+    display: inline-block;
+    border: none;
+    margin: 25px 0;
+}
+
+#spanResult {
+    display: block;
+    border: 1px solid dotted;
+    background: #3C3C3C;
+    margin: 25px 0;
+    padding: 25px;
+}
